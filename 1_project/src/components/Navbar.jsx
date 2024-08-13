@@ -5,7 +5,7 @@ function Navbar() {
   return (
     <div className='bg-[#FE9E0D] flex items-center justify-between p-5 '>
       <div>
-        <h1 className='text-4xl ml-10 font-bold'>Foodie</h1>
+        <h1 className='text-4xl ml-10 font-bold'>Foodies</h1>
       </div>
       <div className='flex gap-10 text-xl font-semibold'>
         <h3>Home</h3>
